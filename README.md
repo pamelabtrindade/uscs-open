@@ -37,3 +37,7 @@ E não se esqueça:
 No final das contas, a única rivalidade que realmente importa é a sua busca incessante por conhecimento e aperfeiçoamento. Continue aprendendo, evoluindo e se tornando um programador cada vez mais completo.
 
 O futuro da programação está em suas mãos!
+
+# Alterações realizadas por Pamela Cristine
+
+Este repositório foi atualizado para a tarefa de versionamento com Git e GitHub.
